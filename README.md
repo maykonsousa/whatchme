@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./src/assets/logoReadme.png" height="100px" alt="Next Controll"/>
+  <img src="./src/assets/logoReadme.png" height="100px" alt="whatme"/>
 </div>
 
 <div align="center">
